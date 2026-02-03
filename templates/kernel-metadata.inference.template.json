@@ -1,0 +1,15 @@
+{
+    "id": "{username}/inference-{tag}",
+    "title": "Inference {tag} - {date}",
+    "code_file": "src/inference.py",
+    "language": "python",
+    "kernel_type": "script",
+    "is_private": true,
+    "enable_gpu": false,
+    "enable_tpu": false,
+    "enable_internet": false,
+    "competition_sources": ["titanic"],
+    "dataset_sources": [],
+    "kernel_sources": [],
+    "model_sources": []
+}
